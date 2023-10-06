@@ -1,0 +1,83 @@
+---
+title: "Projects"
+layout: default
+excerpt: "RT2 Lab at Institut Curie"
+sitemap: false
+permalink: /projects.html
+---
+
+<h1>{{page.title}}</h1>
+
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th, td {
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+        padding: 8px;
+        text-align: left;
+    }
+
+    th {
+        border-left: 1px solid black;
+        border-right: 1px solid black;
+    }
+</style>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Project Name</th>
+            <th>Ministry</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>다중 사용자 인터랙션 및 VIRTUAL BEING 지원을 위한 다목적 방송 스튜디오 플랫폼 개발</td>
+            <td>문화체육관광부</td>
+            <td>Apr-22</td>
+            <td>Dec-24</td>
+        </tr>
+        <tr>
+            <td>실-가상 연계 메타버스를 위한 초실감 XR 기술 연구</td>
+            <td>과학기술정보통신부</td>
+            <td>Jul-22</td>
+            <td>Dec-29</td>
+        </tr>
+        <tr>
+            <td>실사 수준의 실시간 처리하기 위한 bi-directional path tracing 프로세서 설계</td>
+            <td>과학기술정보통신부</td>
+            <td>Mar-19</td>
+            <td>Dec-23</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!--
+---
+title: "Projects"
+layout: default
+excerpt: "RT2 Lab at Institut Curie"
+sitemap: false
+permalink: /projects.html
+---
+<h1>{{page.title}}</h1>
+
+<ul class="list-unstyled">
+    {% for article in site.data.projects %}
+        <li class="media">
+            <div class="media-body">
+            <h4 class="mt-0 mb-1">{{ article.title }}</h4>
+            <p><small>{{ article.date }}</small></p>
+            {{ article.content }}
+            </div>
+        </li>
+    {% endfor %}
+</ul>
+-->

@@ -1,0 +1,101 @@
+[
+    {
+        "title": "Effective Algorithm to Control Depth Level for Performance Improvement of Sound Tracing, JOURNAL OF WEB ENGINEERING 21 (2022)"
+    },
+    {
+        "title": "Lossless Compression Algorithm and Architecture for Reduced Memory Bandwidth Requirement with Improved Prediction Based on the Multiple DPCM Golomb-Rice Algorithm, JOURNAL OF WEB ENGINEERING 20 (2021)"
+    },
+    {
+        "title": "An Effective Burst Access Scheme for Lossless Frame Buffer Compression on a Video Decoder, IEEE ACCESS 9 (2021)"
+    },
+    {
+        "title": "An Implementation of Multi-Chip Architecture for Real-Time Ray Tracing Based on Parallel Frame Rendering, IEEE ACCESS 9 (2021)"
+    },
+    {
+        "title": "A Latency-Effective Pipelined Divider for Double-Precision Floating-Point Numbers, IEEE Access 8 (2020)"
+    },
+    {
+        "title": "Load Balancing Algorithm for Real-Time Ray Tracing of Dynamic Scenes, IEEE Access 8 (2020)"
+    },
+    {
+        "title": "An Effective Algorithm and Architecture for the High-Throughput Lossless Compression of High-Resolution Images, IEEE ACCESS 7 (2019)"
+    },
+    {
+        "title": "A Practically Applicable Performance Prediction Model Based on Capabilities of Texture Mapping Units for Mobile GPUs, IEEE ACCESS 7 (2019)"
+    },
+    {
+        "title": "A Novel Performance Prediction Model for Mobile GPUs, IEEE Access 6 (2018)"
+    },
+    {
+        "title": "Geometry transition method to improve ray-tracing precision, MULTIMEDIA TOOLS AND APPLICATIONS 75 (2016)"
+    },
+    {
+        "title": "HART: A Hybrid Architecture for Ray Tracing Animated Scenes, IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS 21 (2015)"
+    },
+    {
+        "title": "RayCore: A ray-tracing hardware architecture for mobile devices, Acm Transactions On Graphics 33 (2014)"
+    },
+    {
+        "title": "Effective traversal algorithms and hardware architecture for pyramidal inverse displacement mapping, Computers And Graphics 38 (2014)"
+    },
+    {
+        "title": "Ray box culling for tree structures, Journal Of Information Science And Engineering 29 (2013)"
+    },
+    {
+        "title": "Node pre-fetching architecture for real-time ray tracing, Ieice Electronics Express 10 (2013)"
+    },
+    {
+        "title": "Effective Fixed-Point Pipelined Divider for Mobile Rendering Processors, Ieice Transactions On Information And Systems E96-D (2013)"
+    },
+    {
+        "title": "A Pixel Pipeline Architecture with Selective Z-Test Scheme for 3D Graphics Processors, Microprocessors And Microsystems 37 (2013)"
+    },
+    {
+        "title": "gkDtree : A Group-Based Parallel Update Kd-tree for Interactive Ray Tracing, Journal Of Systems Architecture 59 (2013)"
+    },
+    {
+        "title": "Efficient ray sorting for the tracing of incoherent rays, IEICE ELECTRONICS EXPRESS 9 (2012)"
+    },
+    {
+        "title": "T&I Engine: Traversal and Intersection Engine for Hardware Accelerated Ray Tracing , ACM Transactions on Graphics 30-6 (2011)"
+    },
+    {
+        "title": "A Lossless Color Image Compression Architecture Using a Parallel Golomb-Rice Hardware CODEC, IEEE Transactions on Circuits and Systems for Video Technology 21-11 (2011)"
+    },
+    {
+        "title": "The design of a texture mapping unit with effective MIP-map level selection for real-time ray tracing, IEICE Electronics Express 8-13 (2011)"
+    },
+    {
+        "title": "An effective rasterization architecture for mobile vector graphics processors, IEICE Electronics Express 8-11 (2011)"
+    },
+    {
+        "title": "An effective depth data memory system using an escape count buffer for 3D rendering processors, IEICE Electronics Express 8-4 (2011)"
+    },
+    {
+        "title": "The design of compressed memory system for depth data in 3D rendering processors, IEICE Electronics Express 7-21 (2010)"
+    },
+    {
+        "title": "A high performance network-on-chip scheme using lossless data compression, IEICE Electronics Express 7-11 (2010)"
+    },
+    {
+        "title": "An Effective Load Balancing Scheme for 3D Texture- based Sort-Last Parallel Volume Rendering on GPU Clusters, IEICE Transactions on Information and Systems E91D-3 (2008)"
+    },
+    {
+        "title": "A Simulation Development Environments for Mobile 3D Graphics Architecture, IET Computers & Digital Techniques 1-5 (2007)"
+    },
+    {
+        "title": "A Consistency-free Memory Architecture for Sort-last Parallel Rendering Processors, JOURNAL OF SYSTEMS ARCHITECTURE 53-5 (2007)"
+    },
+    {
+        "title": "An Effective Bump Mapping Hardware Architecture Using Polar Coordinate System, Journal of Information Science and Engineering 23-2 (2007)"
+    },
+    {
+        "title": "An Effective Visibility Culling Method Based on Cache Block, IEEE Transactions on Computers 55-8 (2006)"
+    },
+    {
+        "title": "A Processor Architecture with Effective Memory System for Sort-Last Parallel Rendering, Lecture Notes in Computer Science 3894 (2006)"
+    },
+    {
+        "title": "A Simple and Efficient Triangle Strip Filtering Algorithm, JOURNAL OF INFORMATION SCIENCE AND ENGINEERING 21-6 (2005)"
+    }
+]
