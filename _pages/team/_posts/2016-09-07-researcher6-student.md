@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: 한정우
-image: kjm.jpg
+image: hjw.jpg
 role: MS Student
 permalink: 'team/researcher-name'
 social:
@@ -15,7 +15,7 @@ social:
     research-gate: https://www.researchgate.net/
 education:
  - Education
-email : eyy684@naver.com
+email : jinruqaq@gmail.com
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
