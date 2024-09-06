@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: 김민재
-image: kej.png
+image: kmj.jpg
 role: BS Student
 permalink: 'team/researcher-name'
 social:
@@ -15,7 +15,7 @@ social:
     research-gate: https://www.researchgate.net/
 education:
  - Education
-email: ejkim@rayman.sejong.ac.kr
+email: 22011670@sju.ac.kr
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
