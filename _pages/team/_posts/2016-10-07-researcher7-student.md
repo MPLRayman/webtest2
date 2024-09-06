@@ -1,7 +1,7 @@
 ---
 layout: member
 category: student
-title: 김은재
+title: 한정우
 image: kej.png
 role: PhD Student
 permalink: 'team/researcher-name'
