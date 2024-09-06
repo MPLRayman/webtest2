@@ -1,9 +1,9 @@
 ---
 layout: member
 category: student
-title: 김민재
+title: 한정우
 image: kjm.jpg
-role: PhD Student
+role: MS Student
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/

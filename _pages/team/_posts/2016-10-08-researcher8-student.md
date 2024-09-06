@@ -1,9 +1,9 @@
 ---
 layout: member
 category: student
-title: gkasgkak
+title: 최준영
 image: kej.png
-role: PhD Student
+role: BS Student
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
