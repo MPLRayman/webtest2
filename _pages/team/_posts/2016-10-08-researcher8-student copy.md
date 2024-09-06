@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: 최준영
-image: cjy.png
+image: cjy.jpg
 role: BS Student
 permalink: 'team/researcher-name'
 social:
