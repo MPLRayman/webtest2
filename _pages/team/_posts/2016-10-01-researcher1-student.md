@@ -1,7 +1,11 @@
 ---
 layout: member
 category: student
+<<<<<<< Updated upstream
 title: 김정명
+=======
+title: 김민재
+>>>>>>> Stashed changes
 image: kjm.jpg
 role: PhD Student
 permalink: 'team/researcher-name'
