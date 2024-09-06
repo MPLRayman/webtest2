@@ -37,7 +37,7 @@ permalink: /team/
 
 <!-- Students -->
 
-<h2><a id="student"></a>Students</h2>
+<!-- <h2><a id="student"></a>Students</h2>
 {% assign members = site.posts | where: 'category', 'student' | sort: 'date' %}
 
 <div class="container">
@@ -63,12 +63,12 @@ permalink: /team/
         </div>
         {% endfor %}
     </div>
-</div>
+</div> -->
 
 
 <!-- Alumni -->
  
-<h2><a id="alumni"></a>Alumni</h2>
+<!-- <h2><a id="alumni"></a>Alumni</h2>
 {% assign members = site.posts | where: 'category', 'alumni' | sort: 'date' %}
 
 <div class="container">
@@ -110,5 +110,78 @@ permalink: /team/
     .card-img {
         width: 100%;
         height: auto; /* 이미지 비율 유지 */
+    }
+</style> -->
+
+<h2><a id="student"></a>Students</h2>
+{% assign members = site.posts | where: 'category', 'student' | sort: 'date' %}
+
+<div class="container">
+    <div class="row">
+        {% for member in members %}
+        <div class="col-md-6 mb-4">
+            <div class="card h-100">
+                <div class="row no-gutters">
+                    <div class="col-md-4">
+                        <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
+                            class="card-img img-responsive img-thumbnail"
+                            style="max-width: 100%;"/>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body d-flex flex-column">
+                            <h4 class="card-title">{{ member.title }}</h4>
+                            <p class="card-text">{{ member.role }}</p>
+                            <p class="card-text">{{ member.email }}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<!-- Alumni Section -->
+<h2><a id="alumni"></a>Alumni</h2>
+{% assign members = site.posts | where: 'category', 'alumni' | sort: 'date' %}
+
+<div class="container">
+    <div class="row">
+        {% for member in members %}
+        <div class="col-md-6 mb-4">
+            <div class="card h-100">
+                <div class="row no-gutters">
+                    <div class="col-md-4">
+                        <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
+                            class="card-img img-responsive img-thumbnail"
+                            style="max-width: 100%;"/>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body d-flex flex-column">
+                            <h4 class="card-title">{{ member.title }}</h4>
+                            <p class="card-text">{{ member.role }}</p>
+                            <p class="card-text">{{ member.email }}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<!-- Style Section -->
+<style>
+    .card-body {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between; /* 카드 내용이 균등하게 배치되도록 조정 */
+    }
+    .card-img {
+        width: 100%;
+        height: auto; /* 이미지 비율 유지 */
+    }
+    .card.h-100 {
+        height: 100%; /* 카드가 동일한 높이를 갖도록 함 */
     }
 </style>
