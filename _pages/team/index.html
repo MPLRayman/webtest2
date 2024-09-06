@@ -10,13 +10,9 @@ permalink: /team/
 
 <!-- Staff -->
 
-<<<<<<< HEAD
-<h2><a id="Staff"></a>1Professor</h2>
-{% assign members = site.posts | where: 'category', 'Professor' | sort: 'date' %}
-=======
 <h2><a id="Professor"></a>Professor</h2>
 {% assign members = site.posts | where: 'category', 'staff' | sort: 'date' %}
->>>>>>> parent of 3fd9910 (Update Category)
+
 {% for member in members %}
 <div class="card team-member-card">
     <div class="row mt-3">
@@ -41,13 +37,9 @@ permalink: /team/
 
 <!-- Students -->
 
-<<<<<<< HEAD
-<h2><a id="Students"></a>Full-time Researcher</h2>
-{% assign members = site.posts | where: 'category', 'Full-time Researcher' | sort: 'date' %}
-=======
-<h2><a id="Full-time Researcher"></a>Full-time Researcher</h2>
+<h2><a id="student"></a>Students</h2>
 {% assign members = site.posts | where: 'category', 'student' | sort: 'date' %}
->>>>>>> parent of 3fd9910 (Update Category)
+
 {% for member in members %}
 <div class="card team-member-card">
     <div class="row mt-3">
