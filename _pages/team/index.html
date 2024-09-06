@@ -60,6 +60,7 @@ permalink: /team/
         </div>
     </div>
 </div>
+{% endfor %}
 
 <h2><a id="alumni"></a>Alumni</h2>
 {% assign members = site.posts | where: 'category', 'alumni' | sort: 'date' %}
@@ -83,5 +84,4 @@ permalink: /team/
         </div>
     </div>
 </div>
-
 {% endfor %}
