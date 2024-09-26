@@ -17,7 +17,9 @@ Real-time Sound Tracing for 3D VR Audio
  - Hardware/Software architecture for real-time processing
  - FPGA implementation
 
- 
+AI SW/HW for Denoising/Dehazing
+- Denoising/Dehazing SW algorithms and system semiconductor design
+
 GPU Architecture for Mobile Devices
  - Algorithm & architecture of mobile graphics
  - FPGA implementation
@@ -25,3 +27,4 @@ GPU Architecture for Mobile Devices
 Etc.
  - Lossless data compression
  - Computer arithmetic (FPU, elementary functions, etc.)
+ 
