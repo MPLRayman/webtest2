@@ -39,6 +39,31 @@ permalink: /team/
         display: flex;
         flex-direction: column;
         justify-content: space-between;
+        height: 150px; /* 保持卡片高度 */
+        max-width: 100%; /* 限制卡片宽度 */
+        margin: 10px; /* 添加间距 */
+        box-sizing: border-box; /* 包含边框和内边距 */
+    }
+
+    .card-img {
+        width: 100%;
+        height: auto; /* 自适应高度 */
+    }
+
+    /* 响应式设计 */
+    @media (max-width: 600px) {
+        .card {
+            height: auto; /* 在小屏幕上自动调整高度 */
+        }
+    }
+</style>
+
+
+<!-- <style>
+    .card {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
         height: 150px; /* 카드 높이를 균일하게 맞춤 */
     }
 
@@ -46,7 +71,7 @@ permalink: /team/
         width: 100%;
         height: auto;
     }
-</style>
+</style> -->
 
 <!-- Students -->
 
