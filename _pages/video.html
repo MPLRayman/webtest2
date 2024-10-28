@@ -24,3 +24,33 @@ permalink: /video/
     {% endfor %}
     </div>
 </div>
+
+<h2><a id="Ray-tracing GPU Technology"></a>Ray-tracing GPU Technology</h2>
+{% assign videos = site.posts | where: 'category', 'video' | sort: 'date' %}
+
+<div class="grid-container">
+    <div class="row">
+        {% for video in videos %}
+        <div class="col-md-6 mb-4">
+            <div class="card video-card">
+                <div class="row no-gutters">
+                    <div class="col-md-4">
+                        <img src="{{ site.url }}{{ site.baseurl }}/images/Ray-tracing GPU Technology/{{ video.image }}"
+                             class="card-img img-responsive img-thumbnail"
+                             style="max-width: 100px;" alt="{{ video.title }}"/>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h4 class="card-title">{{ video.title }}</h4>
+                            <p class="card-text">{{ video.description }}</p>
+                            <p class="card-text">
+                                <a href="{{ video.url }}" class="btn btn-primary" target="_blank">Watch Video</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
