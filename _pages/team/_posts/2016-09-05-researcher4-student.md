@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: alumni
 title: 소정웅
 image: sjw.jpg
 role: MS Student
