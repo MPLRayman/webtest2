@@ -10,7 +10,36 @@ permalink: /video/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h_AQ77AicD4?si=_XTByVeXvjnwCfl6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GpM-S8eVCNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/GpM-S8eVCNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+<div class="video-container">
+    <div class="video-item">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/h_AQ77AicD4?si=_XTByVeXvjnwCfl6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <h2>Ray-tracing GPU Technology</h2>
+            <p>说明示范例子是123</p>
+        </div>
+    </div>
+
+<style>
+.video-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px; /* 视频项之间的间距 */
+}
+
+.video-item {
+    display: flex; /* 横向布局 */
+    align-items: flex-start; /* 垂直对齐 */
+    border: 1px solid #ccc; /* 边框 */
+    padding: 10px; /* 内边距 */
+    border-radius: 5px; /* 圆角 */
+    background-color: #f9f9f9; /* 背景颜色 */
+}
+
+.video-description {
+    margin-left: 20px; /* 视频与说明之间的间距 */
+}
+</style>
 
 # Sound-tracing Technology
 
