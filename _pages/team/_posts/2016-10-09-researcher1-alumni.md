@@ -3,7 +3,7 @@ layout: member
 category: alumni
 title: 김은재
 image: kej.png
-role: PhD Student
+role: alumni
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
