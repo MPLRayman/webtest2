@@ -8,23 +8,25 @@ permalink: /research/
 
 # Research
 
-Real-time Ray Tracing and Global illumination GPU
- - Hardware architecture for real-time processing
- - FPGA implementation
- - Game engine for ray tracing and global illumination
+Real-time Ray-tracing and Path-tracing GPU for Global illumination
+•   HW architecture for real-time processing
+•   SW algorithm for ray tracing and path-tracing
+•   HW implementation on FPGA and Chip design
 
-Real-time Sound Tracing for 3D VR Audio
- - Hardware/Software architecture for real-time processing
- - FPGA implementation
+Real-time On-device AI SW/HW
+•   Real-time AI denoising for ray-tracing and path-tracing GPUs
+•   Reall-time AI dehazing(including defogging) for AI carmeras
+•   Real-time AI audio for sound sources separation, noise suppression, audio super-resolution
+•   HW implementation on FPGA and Chip design
 
-AI SW/HW for Denoising/Dehazing
-- Denoising/Dehazing SW algorithms and system semiconductor design
+Real-time Sound Tracing for life-like immersive 3D Audio
+•   HW architecture for real-time processing
+•   SW algorithm for ray tracing and path-tracing
+•   HW implementation on FPGA and Chip design
 
-GPU Architecture for Mobile Devices
- - Algorithm & architecture of mobile graphics
- - FPGA implementation
-
+Low-power GPU Architecture for Mobile Devices
+•   SW Algorithm & HW architecture for real-time mobile graphics
+•   HW implementation on FPGA and Chip design
 Etc.
- - Lossless data compression
- - Computer arithmetic (FPU, elementary functions, etc.)
- 
+•   Lossless data compression
+•   Computer arithmetic (FPU, elementary functions, etc.)
