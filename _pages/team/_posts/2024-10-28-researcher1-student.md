@@ -1,8 +1,8 @@
 ---
 layout: member
-category: PhD Student
+category: student
 title: 이조홍
-image: xxx.jpg
+image: jhl.jpg
 role: PhD Student
 permalink: 'team/researcher-name'
 social:
