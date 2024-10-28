@@ -12,8 +12,6 @@ permalink: /video/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GpM-S8eVCNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-설명
-
 # Sound-tracing Technology
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AOFmVFOSHE8?si=lrmkR3B9mwxGdT-z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -31,24 +29,3 @@ permalink: /video/
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yv-fr1wOTtg?si=4BpJ291ouhx-5yhC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<style>
-.video-container {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-}
-
-.video-item {
-    display: flex;
-    align-items: flex-start; /* 垂直对齐 */
-    border: 1px solid #ccc;
-    padding: 10px;
-    border-radius: 5px;
-    background-color: #f9f9f9;
-}
-
-.video-description {
-    margin-left: 20px; /* 视频和说明之间的间距 */
-}
-</style>
