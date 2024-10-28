@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Video"
 layout: default
 excerpt: "RT2 Lab -- Publications."
@@ -19,8 +19,59 @@ permalink: /video/
         <div id="collapse{{forloop.index}}" class="panel-collapse collapse">
             <div class="panel-body">
                 <p>{{ vide.abstract }}</p>
+
             </div>
         </div>
     {% endfor %}
     </div>
+</div> -->
+
+---
+title: "Video"
+layout: default
+excerpt: "RT2 Lab -- Publications."
+sitemap: false
+permalink: /video/
+---
+
+- title: "视频1"
+  abstract: "这是视频1的摘要。"
+  category: "教程"
+
+- title: "视频2"
+  abstract: "这是视频2的摘要。"
+  category: "研究"
+
+- title: "视频3"
+  abstract: "这是视频3的摘要。"
+  category: "项目展示"
+
+
+<h1>{{page.title}}</h1>
+
+<div class="panel-group" id="accordion">
+
+    {% assign categories = site.data.video | map: 'category' | uniq %}
+    {% for category in categories %}
+        <h2>{{ category }}</h2> <!-- 显示分类标题 -->
+        
+        <div class="panel panel-default">
+            {% for vide in site.data.video %}
+                {% if vide.category == category %}
+                    <div class="panel-heading">
+                        <a data-toggle="collapse" data-parent="#accordion"
+                           href="#collapse{{forloop.index}}" style="color: inherit;">
+                            "{{ vide.title }}" <!-- 显示视频标题 -->
+                        </a>
+                    </div>
+
+                    <div id="collapse{{forloop.index}}" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            <p>{{ vide.abstract }}</p> <!-- 显示视频摘要 -->
+                        </div>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    {% endfor %}
 </div>
