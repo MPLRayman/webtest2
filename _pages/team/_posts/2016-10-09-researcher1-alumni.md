@@ -2,7 +2,7 @@
 layout: member
 category: alumni
 title: 김은재
-image: kej.png
+image: xxx.jpg
 role: PhD
 permalink: 'team/researcher-name'
 social:
