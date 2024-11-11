@@ -8,7 +8,13 @@ permalink: /video/
 
 # Ray-tracing GPU Technology
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h_AQ77AicD4?si=_XTByVeXvjnwCfl6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe width="560" height="315" src="https://youtu.be/h_AQ77AicD4?si=I6RdD5ZYvprwmPIo" title="Ray-tracing GPU Technology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <div class="video-description">
+        <h3>Ray-tracing GPU Technology</h3>
+        <p>This video demonstrates the power of ray tracing in modern GPUs, showcasing the advanced lighting and shadow effects achieved through ray-tracing technology in real-time applications.</p>
+    </div>
+</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GpM-S8eVCNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -29,3 +35,4 @@ permalink: /video/
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yv-fr1wOTtg?si=4BpJ291ouhx-5yhC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
