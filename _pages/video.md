@@ -31,4 +31,7 @@ Denoising
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yv-fr1wOTtg?si=4BpJ291ouhx-5yhC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+Dehazing
+- 카메라를 통해 획득된 이미지(영상)는 해무, 황사, 안개와 같은 날씨 상황으로 인해 노이즈가 심화 될 수 있다. 노이즈로 손상된 이미지는 시각적인 품질 저하 뿐만 아니라, 이를 활용하는 애플리케이션의 학습 및 성능에 부정적인 영향을 끼치므로 우선적으로 해결해야 하는 중요한 문제이다.
+- 본 데모는 카메라를 통해 획득한 안개 이미지의 노이즈를 AI 신경망을 활용해서 제거하는 것을 보여준다. AI신경망은 Benchmark(씬이름)는 안개로 인해 소실된 정보를 복원하고, 안개를 제거한다.
+- 데모에 활용한 AI 신경망은 U-net 신경망을 경량화(23M -> 1M) 하고, 안개 제거에 특화될 수 있도록 구축하였다.
