@@ -29,24 +29,3 @@ permalink: /video/
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yv-fr1wOTtg?si=4BpJ291ouhx-5yhC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<style>
-.video-container {
-    display: flex;
-    flex-direction: column; /* 垂直排列多个视频项 */
-    gap: 20px; /* 视频项之间的间距 */
-}
-
-.video-item {
-    display: flex; /* 横向布局 */
-    align-items: flex-start; /* 顶部对齐 */
-    border: 1px solid #ccc;
-    padding: 10px;
-    border-radius: 5px;
-    background-color: #f9f9f9;
-}
-
-.video-description {
-    margin-left: 20px; /* 视频和说明之间的间距 */
-}
-</style>
