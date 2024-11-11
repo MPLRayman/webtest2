@@ -8,13 +8,13 @@ permalink: /video/
 
 # Ray-tracing GPU Technology
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://youtu.be/h_AQ77AicD4?si=I6RdD5ZYvprwmPIo" title="Ray-tracing GPU Technology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://youtu.be/h_AQ77AicD4?si=I6RdD5ZYvprwmPIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <div class="video-description">
         <h3>Ray-tracing GPU Technology</h3>
         <p>This video demonstrates the power of ray tracing in modern GPUs, showcasing the advanced lighting and shadow effects achieved through ray-tracing technology in real-time applications.</p>
     </div>
-</div>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GpM-S8eVCNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
