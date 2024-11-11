@@ -1,9 +1,9 @@
 ---
 layout: member
 category: alumni
-title: Lee Jasin
+title: Lee Jaesin
 image: xxx.jpg
-role: alumni
+role: PhD Student
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/

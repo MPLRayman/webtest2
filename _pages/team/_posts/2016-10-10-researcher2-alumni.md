@@ -3,7 +3,7 @@ layout: member
 category: alumni
 title: 소정웅
 image: sjw.jpg
-role: alumni
+role: MS Student
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/

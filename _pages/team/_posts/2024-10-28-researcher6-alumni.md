@@ -3,7 +3,7 @@ layout: member
 category: alumni
 title: Hwang Imjae
 image: xxx.jpg
-role: alumni
+role: PhD Student
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/

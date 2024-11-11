@@ -3,7 +3,7 @@ layout: member
 category: alumni
 title: Choi Jaewan
 image: xxx.jpg
-role: alumni
+role: MS Student
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
