@@ -3,7 +3,7 @@ layout: member
 category: alumni
 title: Yun Juwon
 image: xxx.jpg
-role: PhD Student
+role: PhD
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/

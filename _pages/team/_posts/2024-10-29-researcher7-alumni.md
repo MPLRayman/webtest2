@@ -3,7 +3,7 @@ layout: member
 category: alumni
 title: Kim Donghwan
 image: xxx.jpg
-role: alumni
+role: MS
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
