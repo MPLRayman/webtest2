@@ -3,7 +3,7 @@ layout: member
 category: alumni
 title: Kim JungMyung
 image: xxx.jpg
-role: MS Student
+role: MS
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
