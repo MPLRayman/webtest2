@@ -1,7 +1,7 @@
 ---
 layout: member
 category: alumni
-title: 소정웅
+title: So Jungwoong
 image: xxx.jpg
 role: MS
 permalink: 'team/researcher-name'
