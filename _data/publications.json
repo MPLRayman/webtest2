@@ -1,105 +1,105 @@
 [
     {
-        "title": "Y. Han, J. Kim, J. Lee, J.-H. Nah, Y.-S. Ho, and W.-C. Park, “Efficient Haze Removal from a Single Image Using a DCP-Based Lightweight U-Net Neural Network Model,” Sensors, 24(12), 3746, Jun. 2024."
+        "title": "Y. Han, J. Kim, J. Lee, J.-H. Nah, Y.-S. Ho, and W.-C. Park, “Efficient Haze Removal from a Single Image Using a DCP-Based Lightweight U-Net Neural Network Model,” Sensors, 24(12),Jun. 2024."
     },
     {
-        "title": "E. Kim, S. Choi, C. G. Kim, and W.-C. Park, “Multi-Threaded Sound Propagation Algorithm to Improve Performance on Mobile Devices,” Sensors, 23 (2), 973, Jan.2023."
+        "title": "E. Kim, S. Choi, C. G. Kim, and W.-C. Park, “Multi-Threaded Sound Propagation Algorithm to Improve Performance on Mobile Devices,” Sensors, 23 (2), Jan. 2023."
     },
     {
-        "title": "E. Kim et al., “An Architecture and Implementation of Real-Time Sound Propagation Hardware for Mobile Devices,” SIGGRAPH Asia 2023 Conference Papers. ACM, pp. 1-9, Dec.2023-"
+        "title": "E. Kim et al., “An Architecture and Implementation of Real-Time Sound Propagation Hardware for Mobile Devices,” SIGGRAPH Asia 2023 Conference Papers. ACM, Dec. 2023"
     },
     {
-        "title": "J. Lee, C.-G. Kim, Y.-K. Moon, and W.-C. Park, “An Implementation of Inverse Cosine Hardware for Sound Rendering Applications,” Sensors, 23(15), 6731, Jul.2023."
+        "title": "J. Lee, C.-G. Kim, Y.-K. Moon, and W.-C. Park, “An Implementation of Inverse Cosine Hardware for Sound Rendering Applications,” Sensors, 23(15), 6731, Jul. 2023."
     },
     {
-        "title": "E. Kim et al., “Effective Algorithm to Control Depth Level for Performance Improvement of Sound Tracing,” Journal of Web Engineering, Feb.2022."
+        "title": "E. Kim et al., “Effective Algorithm to Control Depth Level for Performance Improvement of Sound Tracing,” Journal of Web Engineering, Feb. 2022."
     },
     {
-        "title": "I. Hwang et al., “Lossless Compression Algorithm and Architecture for Reduced Memory Bandwidth Requirement with Improved Prediction Based on the Multiple DPCM Golomb-Rice Algorithm,” Journal of Web Engineering ,Oct.2021."
+        "title": "I. Hwang et al., “Lossless Compression Algorithm and Architecture for Reduced Memory Bandwidth Requirement with Improved Prediction Based on the Multiple DPCM Golomb-Rice Algorithm,” Journal of Web Engineering, Oct. 2021."
     },
     {
-        "title": "J. Lee, I. Hwang, Y. Kim, C. G. Kim, and W.-C. Park, “An Effective Burst Access Scheme for Lossless Frame Buffer Compression on a Video Decoder,” Institute of Electrical and Electronics Engineers (IEEE),2021."
+        "title": "J. Lee, I. Hwang, Y. Kim, C. G. Kim, and W.-C. Park, “An Effective Burst Access Scheme for Lossless Frame Buffer Compression on a Video Decoder,” Institute of Electrical and Electronics Engineers (IEEE), 2021."
     },
     {
-        "title": "J. Lee, J.-H. Nah, W. Chung, T.-H. Lee, and W.-C. Park, “An Implementation of Multi-Chip Architecture for Real-Time Ray Tracing Based on Parallel Frame Rendering,” Institute of Electrical and Electronics Engineers (IEEE),2021."
+        "title": "J. Lee, J.-H. Nah, W. Chung, T.-H. Lee, and W.-C. Park, “An Implementation of Multi-Chip Architecture for Real-Time Ray Tracing Based on Parallel Frame Rendering,” Institute of Electrical and Electronics Engineers (IEEE), 2021."
     },
     {
-        "title": "J. Yun, J. Lee, W.-N. Chung, C. G. Kim, and W.-C. Park, “A Latency-Effective Pipelined Divider for Double-Precision Floating-Point Numbers,” Institute of Electrical and Electronics Engineers (IEEE),2020."
+        "title": "J. Yun, J. Lee, W.-N. Chung, C. G. Kim, and W.-C. Park, “A Latency-Effective Pipelined Divider for Double-Precision Floating-Point Numbers,” Institute of Electrical and Electronics Engineers (IEEE), 2020."
     },
     {
-        "title": "J. Lee, W.-N. Chung, T.-H. Lee, J.-H. Nah, Y. Kim, and W.-C. Park, “Load Balancing Algorithm for Real-Time Ray Tracing of Dynamic Scenes,” Institute of Electrical and Electronics Engineers (IEEE),2020."
+        "title": "J. Lee, W.-N. Chung, T.-H. Lee, J.-H. Nah, Y. Kim, and W.-C. Park, “Load Balancing Algorithm for Real-Time Ray Tracing of Dynamic Scenes,” Institute of Electrical and Electronics Engineers (IEEE), 2020."
     },
     {
-        "title": "J. Lee et al., “An Effective Algorithm and Architecture for the High-Throughput Lossless Compression of High-Resolution Images,” Institute of Electrical and Electronics Engineers (IEEE),2019."
+        "title": "J. Lee et al., “An Effective Algorithm and Architecture for the High-Throughput Lossless Compression of High-Resolution Images,” Institute of Electrical and Electronics Engineers (IEEE), 2019."
     },
     {
-        "title": "J. Yun et al., “A Practically Applicable Performance Prediction Model Based on Capabilities of Texture Mapping Units for Mobile GPUs,” Institute of Electrical and Electronics Engineers (IEEE),2019."
+        "title": "J. Yun et al., “A Practically Applicable Performance Prediction Model Based on Capabilities of Texture Mapping Units for Mobile GPUs,” Institute of Electrical and Electronics Engineers (IEEE), 2019."
     },
     {
-        "title": "J. Yun et al., “A Novel Performance Prediction Model for Mobile GPUs,” Institute of Electrical and Electronics Engineers (IEEE),2018."
+        "title": "J. Yun et al., “A Novel Performance Prediction Model for Mobile GPUs,” Institute of Electrical and Electronics Engineers (IEEE), 2018."
     },
     {
-        "title": "D. Kim, J.-H. Nah, and W.-C. Park, “Geometry transition method to improve ray-tracing precision,” Springer Science and Business Media LLC,Mar.2015."
+        "title": "D. Kim, J.-H. Nah, and W.-C. Park, “Geometry transition method to improve ray-tracing precision,” Springer Science and Business Media LLC, Mar. 2015."
     },
     {
-        "title": "J.-H. Nah et al., “HART: A Hybrid Architecture for Ray Tracing Animated Scenes,” Institute of Electrical and Electronics Engineers (IEEE),Mar.2015."
+        "title": "J.-H. Nah et al., “HART: A Hybrid Architecture for Ray Tracing Animated Scenes,” Institute of Electrical and Electronics Engineers (IEEE), Mar. 2015."
     },
     {
-        "title": "J.-H. Nah et al., “RayCore,” ACM Transactions on Graphics,Association for Computing Machinery (ACM),Sep.2014."
+        "title": "J.-H. Nah et al., “RayCore,” ACM Transactions on Graphics,Association for Computing Machinery (ACM), Sep. 2014."
     },
     {
-        "title": "H.-J. Kwon, J.-H. Nah, D. Manocha, and W.-C. Park, “Effective traversal algorithms and hardware architecture for pyramidal inverse displacement mapping,” Computers &amp; Graphics,Feb.2014."
+        "title": "H.-J. Kwon, J.-H. Nah, D. Manocha, and W.-C. Park, “Effective traversal algorithms and hardware architecture for pyramidal inverse displacement mapping,” Computers &amp; Graphics, Feb. 2014."
     },
     {
-        "title": "D. Kim and S. Kwon, “Factors associated with utilization of Traditional Korean Medicine: Results from a panel analysis,” European Journal of Integrative Medicine,Elsevier BV,Sep.2016."
+        "title": "D. Kim and S. Kwon, “Factors associated with utilization of Traditional Korean Medicine: Results from a panel analysis,” European Journal of Integrative Medicine,Elsevier BV, Sep. 2016."
     },
     {
-        "title": "J. Park, W. Park, J.-H. Nah, and T. Han, “Node pre-fetching architecture for real-time ray tracing,” Information and Communications Engineers (IEICE),2013."
+        "title": "J. Park, W. Park, J.-H. Nah, and T. Han, “Node pre-fetching architecture for real-time ray tracing,” Information and Communications Engineers (IEICE), 2013."
     },
     {
-        "title": "Y.-J. PARK, W.-C. PARK, J.-H. BAE, J. PARK, and T.-D. HAN, “Effective Fixed-Point Pipelined Divider for Mobile Rendering Processors,” Information and Communications Engineers (IEICE),2013."
+        "title": "Y.-J. PARK, W.-C. PARK, J.-H. BAE, J. PARK, and T.-D. HAN, “Effective Fixed-Point Pipelined Divider for Mobile Rendering Processors,” Information and Communications Engineers (IEICE), 2013."
     },
     {
-        "title": "J. Park, I.-S. Kim, W.-C. Park, Y.-J. Park, and T.-D. Han, “A pixel pipeline architecture with selective z-test scheme for 3D graphics processors,” Microprocessors and Microsystems,Elsevier BV,May.2013."
+        "title": "J. Park, I.-S. Kim, W.-C. Park, Y.-J. Park, and T.-D. Han, “A pixel pipeline architecture with selective z-test scheme for 3D graphics processors,” Microprocessors and Microsystems, Elsevier BV, May. 2013."
     },
     {
-        "title": "Y.-S. Kang, J.-H. Nah, W.-C. Park, and S.-B. Yang, “gkDtree: A group-based parallel update kd-tree for interactive ray tracing,” Journal of Systems Architecture,Elsevier BV,Mar.2013."
+        "title": "Y.-S. Kang, J.-H. Nah, W.-C. Park, and S.-B. Yang, “gkDtree: A group-based parallel update kd-tree for interactive ray tracing,” Journal of Systems Architecture,Elsevier BV, Mar. 2013."
     },
     {
-        "title": "J.-H. Nah, Y.-H. Jung, W.-C. Park, and T.-D. Han, “Efficient ray sorting for the tracing of incoherent rays,” Information and Communications Engineers (IEICE),2012."
+        "title": "J.-H. Nah, Y.-H. Jung, W.-C. Park, and T.-D. Han, “Efficient ray sorting for the tracing of incoherent rays,” Information and Communications Engineers (IEICE), 2012."
     },
     {
-        "title": "J.-H. Nah et al., “T&amp;I engine,” Proceedings of the 2011 SIGGRAPH Asia Conference. ACM, Dec.2011."
+        "title": "J.-H. Nah et al., “T&amp;I engine,” Proceedings of the 2011 SIGGRAPH Asia Conference. ACM, Dec. 2011."
     },
     {
-        "title": "Hong-Sik Kim, Joohong Lee, Hyunjin Kim, Sungho Kang, and Woo Chan Park, “A Lossless Color Image Compression Architecture Using a Parallel Golomb-Rice Hardware CODEC,” Institute of Electrical and Electronics Engineers (IEEE),Nov.2011."
+        "title": "Hong-Sik Kim, Joohong Lee, Hyunjin Kim, Sungho Kang, and Woo Chan Park, “A Lossless Color Image Compression Architecture Using a Parallel Golomb-Rice Hardware CODEC,” Institute of Electrical and Electronics Engineers (IEEE), Nov. 2011."
     },
     {
-        "title": "W.-C. Park, D.-S. Kim, J.-S. Park, S.-D. Kim, H.-S. Kim, and T.-D. Han, “The design of a texture mapping unit with effective MIP-map level selection for real-time ray tracing,” Information and Communications Engineers (IEICE),2011."
+        "title": "W.-C. Park, D.-S. Kim, J.-S. Park, S.-D. Kim, H.-S. Kim, and T.-D. Han, “The design of a texture mapping unit with effective MIP-map level selection for real-time ray tracing,” Information and Communications Engineers (IEICE), 2011."
     },
     {
-        "title": "J. Park, J. Kim, W.-C. Park, Y. Kim, C. Jeong, and T.-D. Han, “An effective rasterization architecture for mobile vector graphics processors,” Information and Communications Engineers (IEICE),2011."
+        "title": "J. Park, J. Kim, W.-C. Park, Y. Kim, C. Jeong, and T.-D. Han, “An effective rasterization architecture for mobile vector graphics processors,” Information and Communications Engineers (IEICE), 2011."
     },
     {
-        "title": "W.-C. Park et al., “An effective depth data memory system using an escape count buffer for 3D rendering processors,” Information and Communications Engineers (IEICE),2011."
+        "title": "W.-C. Park et al., “An effective depth data memory system using an escape count buffer for 3D rendering processors,” Information and Communications Engineers (IEICE), 2011."
     },
     {
-        "title": "W.-C. Park et al., “The design of compressed memory system for depth data in 3D rendering processors,” Information and Communications Engineers (IEICE),2010."
+        "title": "W.-C. Park et al., “The design of compressed memory system for depth data in 3D rendering processors,” Information and Communications Engineers (IEICE), 2010."
     },
     {
-        "title": "H.-S. Kim, Y. Jung, H. Kim, J.-H. Ahn, W.-C. Park, and S. Kang, “A high performance network-on-chip scheme using lossless data compression,” Information and Communications Engineers (IEICE),2010."
+        "title": "H.-S. Kim, Y. Jung, H. Kim, J.-H. Ahn, W.-C. Park, and S. Kang, “A high performance network-on-chip scheme using lossless data compression,” Information and Communications Engineers (IEICE), 2010."
     },
     {
-        "title": "W.-J. LEE, V. P. SRINI, W.-C. PARK, S. MURAKI, and T.-D. HAN, “An Effective Load Balancing Scheme for 3D Texture-Based Sort-Last Parallel Volume Rendering on GPU Clusters,” Information and Communications Engineers (IEICE),Mar.2008."
+        "title": "W.-J. LEE, V. P. SRINI, W.-C. PARK, S. MURAKI, and T.-D. HAN, “An Effective Load Balancing Scheme for 3D Texture-Based Sort-Last Parallel Volume Rendering on GPU Clusters,” Information and Communications Engineers (IEICE), Mar. 2008."
     },
     {
-        "title": "W.-C. Park, C.-G. Kim, D.-K. Yoon, K.-W. Lee, I.-S. Kim, and T.-D. Han, “A consistency-free memory architecture for sort-last parallel rendering processors,” Journal of Systems Architecture,Elsevier BV,May.2007."
+        "title": "W.-C. Park, C.-G. Kim, D.-K. Yoon, K.-W. Lee, I.-S. Kim, and T.-D. Han, “A consistency-free memory architecture for sort-last parallel rendering processors,” Journal of Systems Architecture,Elsevier BV, May. 2007."
     },
     {
         "title": "*Lee, S. G., Park, W. C., Lee, W. J., Yang, S. B., & Han, T. D. (2007). An effective bump mapping hardware architecture using polar coordinate system. Journal of information science and engineering, 23(2), 569-588."
     },
     {
-        "title": "M.-H Choi, W.-C. Park, F. Neelamkavil, T.-D. Han, and S.-D. Kim, “An effective visibility culling method based on cache block,” Institute of Electrical and Electronics Engineers (IEEE),Aug.2006."
+        "title": "M.-H Choi, W.-C. Park, F. Neelamkavil, T.-D. Han, and S.-D. Kim, “An effective visibility culling method based on cache block,” Institute of Electrical and Electronics Engineers (IEEE), Aug. 2006."
     },
     {
         "title": "*Park, W. C., Yoon, D. K., Lee, K. W., Kim, I. S., Kim, K. S., Lee, W. J., ... & Yang, S. B. (2006). A processor architecture with effective memory system for sort-last parallel rendering. In Architecture of Computing Systems-ARCS 2006: 19th International Conference, Frankfurt/Main, Germany, March 13-16, 2006. Proceedings 19 (pp. 160-175). Springer Berlin Heidelberg."
