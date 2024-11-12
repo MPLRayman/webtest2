@@ -3,114 +3,108 @@
         "title": "Y. Han, J. Kim, J. Lee, J.-H. Nah, Y.-S. Ho, and W.-C. Park, “Efficient Haze Removal from a Single Image Using a DCP-Based Lightweight U-Net Neural Network Model,” Sensors, 24(12), 3746, Jun. 2024."
     },
     {
-        "title": "Kim, E., Choi, S., Kim, C. G., & Park, W. C. (2023). Multi-Threaded Sound Propagation Algorithm to Improve Performance on Mobile Devices. Sensors, 23(2), 973."
+        "title": "E. Kim, S. Choi, C. G. Kim, and W.-C. Park, “Multi-Threaded Sound Propagation Algorithm to Improve Performance on Mobile Devices,” Sensors, 23 (2), 973, Jan.2023."
     },
     {
-        "title": "Kim, E., Choi, S., Kim, J., Nah, J. H., Jung, W., Lee, T. H., ... & Park, W. C. (2023, December). An Architecture and Implementation of Real-Time Sound Propagation Hardware for Mobile Devices. In SIGGRAPH Asia 2023 Conference Papers (pp. 1-9)."
+        "title": "E. Kim et al., “An Architecture and Implementation of Real-Time Sound Propagation Hardware for Mobile Devices,” SIGGRAPH Asia 2023 Conference Papers. ACM, pp. 1-9, Dec.2023-"
     },
     {
-        "title": "Lee, J., Kim, C. G., Moon, Y. K., & Park, W. C. (2023). An Implementation of Inverse Cosine Hardware for Sound Rendering Applications. Sensors, 23(15), 6731."
+        "title": "J. Lee, C.-G. Kim, Y.-K. Moon, and W.-C. Park, “An Implementation of Inverse Cosine Hardware for Sound Rendering Applications,” Sensors, 23(15), 6731, Jul.2023."
     },
     {
-        "title": "Kim, E., Yun, J., Chung, W., Nah, J. H., Kim, Y., Kim, C. G., & Park, W. C. (2022). Effective Algorithm to Control Depth Level for Performance Improvement of Sound Tracing. Journal of Web Engineering, 21(3), 713-728."
+        "title": "E. Kim et al., “Effective Algorithm to Control Depth Level for Performance Improvement of Sound Tracing,” Journal of Web Engineering, Feb.2022."
     },
     {
-        "title": "Kim, E., Yun, J., Chung, W., Nah, J. H., Kim, Y., Kim, C. G., & Park, W. C. (2022). Effective Algorithm to Control Depth Level for Performance Improvement of Sound Tracing. Journal of Web Engineering, 21(3), 713-728."
+        "title": "I. Hwang et al., “Lossless Compression Algorithm and Architecture for Reduced Memory Bandwidth Requirement with Improved Prediction Based on the Multiple DPCM Golomb-Rice Algorithm,” Journal of Web Engineering ,Oct.2021."
     },
     {
-        "title": "Hwang, I., Yun, J., Chung, W., Lee, J., Kim, C. G., Kim, Y., & Park, W. C. (2021). Lossless Compression Algorithm and Architecture for Reduced Memory Bandwidth Requirement with Improved Prediction Based on the Multiple DPCM Golomb-Rice Algorithm. Journal of Web Engineering, 20(6), 1813-1828."
+        "title": "J. Lee, I. Hwang, Y. Kim, C. G. Kim, and W.-C. Park, “An Effective Burst Access Scheme for Lossless Frame Buffer Compression on a Video Decoder,” Institute of Electrical and Electronics Engineers (IEEE),2021."
     },
     {
-        "title": "Lee, J., Hwang, I., Kim, Y., Kim, C. G., & Park, W. C. (2021). An Effective Burst Access Scheme for Lossless Frame Buffer Compression on a Video Decoder. IEEE Access, 9, 124419-124424."
+        "title": "J. Lee, J.-H. Nah, W. Chung, T.-H. Lee, and W.-C. Park, “An Implementation of Multi-Chip Architecture for Real-Time Ray Tracing Based on Parallel Frame Rendering,” Institute of Electrical and Electronics Engineers (IEEE),2021."
     },
     {
-        "title": "Lee, J., Nah, J. H., Chung, W., Lee, T. H., & Park, W. C. (2021). An Implementation of Multi-Chip Architecture for Real-Time Ray Tracing Based on Parallel Frame Rendering. IEEE Access, 9, 118968-118976."
+        "title": "J. Yun, J. Lee, W.-N. Chung, C. G. Kim, and W.-C. Park, “A Latency-Effective Pipelined Divider for Double-Precision Floating-Point Numbers,” Institute of Electrical and Electronics Engineers (IEEE),2020."
     },
     {
-        "title": "Yun, J., Lee, J., Chung, W. N., Kim, C. G., & Park, W. C. (2020). A latency-effective pipelined divider for double-precision floating-point numbers. IEEE Access, 8, 165740-165747."
+        "title": "J. Lee, W.-N. Chung, T.-H. Lee, J.-H. Nah, Y. Kim, and W.-C. Park, “Load Balancing Algorithm for Real-Time Ray Tracing of Dynamic Scenes,” Institute of Electrical and Electronics Engineers (IEEE),2020."
     },
     {
-        "title": "Lee, J., Chung, W. N., Lee, T. H., Nah, J. H., Kim, Y., & Park, W. C. (2020). Load balancing algorithm for real-time ray tracing of dynamic scenes. IEEE Access, 8, 165003-165009."
+        "title": "J. Lee et al., “An Effective Algorithm and Architecture for the High-Throughput Lossless Compression of High-Resolution Images,” Institute of Electrical and Electronics Engineers (IEEE),2019."
     },
     {
-        "title": "Lee, J., Yun, J., Lee, J., Hwang, I., Hong, D., Kim, Y., ... & Park, W. C. (2019). An effective algorithm and architecture for the high-throughput lossless compression of high-resolution images. IEEE Access, 7, 138803-138815."
+        "title": "J. Yun et al., “A Practically Applicable Performance Prediction Model Based on Capabilities of Texture Mapping Units for Mobile GPUs,” Institute of Electrical and Electronics Engineers (IEEE),2019."
     },
     {
-        "title": "Yun, J., Lee, J., Kim, C. G., Lim, Y., Nah, J. H., Kim, Y., & Park, W. C. (2019). A practically applicable performance prediction model based on capabilities of texture mapping units for mobile GPUs. IEEE Access, 7, 102975-102984."
+        "title": "J. Yun et al., “A Novel Performance Prediction Model for Mobile GPUs,” Institute of Electrical and Electronics Engineers (IEEE),2018."
     },
     {
-        "title": "Yun, J., Lee, J., Kim, C. G., Lim, Y. K., Nah, J. H., Kim, Y., & Park, W. C. (2018). A novel performance prediction model for mobile GPUs. IEEE Access, 6, 16235-16245."
+        "title": "D. Kim, J.-H. Nah, and W.-C. Park, “Geometry transition method to improve ray-tracing precision,” Springer Science and Business Media LLC,Mar.2015."
     },
     {
-        "title": "Kim, D., Nah, J. H., & Park, W. C. (2016). Geometry transition method to improve ray-tracing precision. Multimedia Tools and Applications, 75, 5689-5700."
+        "title": "J.-H. Nah et al., “HART: A Hybrid Architecture for Ray Tracing Animated Scenes,” Institute of Electrical and Electronics Engineers (IEEE),Mar.2015."
     },
     {
-        "title": "Nah, J. H., Kim, J. W., Park, J., Lee, W. J., Park, J. S., Jung, S. Y., ... & Han, T. D. (2014). HART: A hybrid architecture for ray tracing animated scenes. IEEE Transactions on Visualization and Computer Graphics, 21(3), 389-401."
+        "title": "J.-H. Nah et al., “RayCore,” ACM Transactions on Graphics,Association for Computing Machinery (ACM),Sep.2014."
     },
     {
-        "title": "Nah, J. H., Kwon, H. J., Kim, D. S., Jeong, C. H., Park, J., Han, T. D., ... & Park, W. C. (2014). RayCore: A ray-tracing hardware architecture for mobile devices. ACM Transactions on Graphics (TOG), 33(5), 1-15."
+        "title": "H.-J. Kwon, J.-H. Nah, D. Manocha, and W.-C. Park, “Effective traversal algorithms and hardware architecture for pyramidal inverse displacement mapping,” Computers &amp; Graphics,Feb.2014."
     },
     {
-        "title": "Kwon, H. J., Nah, J. H., Manocha, D., & Park, W. C. (2014). Effective traversal algorithms and hardware architecture for pyramidal inverse displacement mapping. Computers & graphics, 38, 140-149."
+        "title": "D. Kim and S. Kwon, “Factors associated with utilization of Traditional Korean Medicine: Results from a panel analysis,” European Journal of Integrative Medicine,Elsevier BV,Sep.2016."
     },
     {
-        "title": "Nah, J. H., Park, W. C., Kang, Y. S., & Han, T. D. (2013). Ray-Box Culling for Tree Structures. J. Inf. Sci. Eng., 29(6), 1211-1225."
+        "title": "J. Park, W. Park, J.-H. Nah, and T. Han, “Node pre-fetching architecture for real-time ray tracing,” Information and Communications Engineers (IEICE),2013."
     },
     {
-        "title": "Park, J. S., Park, W. C., Nah, J. H., & Han, T. D. (2013). Node pre-fetching architecture for real-time ray tracing. ieice electronics express, 10(14), 20130468-20130468."
+        "title": "Y.-J. PARK, W.-C. PARK, J.-H. BAE, J. PARK, and T.-D. HAN, “Effective Fixed-Point Pipelined Divider for Mobile Rendering Processors,” Information and Communications Engineers (IEICE),2013."
     },
     {
-        "title": "Park, Y. J., Park, W. C., Bae, J. H., Park, J., & Han, T. D. (2013). Effective fixed-point pipelined divider for mobile rendering processors. IEICE TRANSACTIONS on Information and Systems, 96(7), 1443-1448."
+        "title": "J. Park, I.-S. Kim, W.-C. Park, Y.-J. Park, and T.-D. Han, “A pixel pipeline architecture with selective z-test scheme for 3D graphics processors,” Microprocessors and Microsystems,Elsevier BV,May.2013."
     },
     {
-        "title": "Park, J., Kim, I. S., Park, W. C., Park, Y. J., & Han, T. D. (2013). A pixel pipeline architecture with selective z-test scheme for 3D graphics processors. Microprocessors and Microsystems, 37(3), 373-380."
+        "title": "Y.-S. Kang, J.-H. Nah, W.-C. Park, and S.-B. Yang, “gkDtree: A group-based parallel update kd-tree for interactive ray tracing,” Journal of Systems Architecture,Elsevier BV,Mar.2013."
     },
     {
-        "title": "Kang, Y. S., Nah, J. H., Park, W. C., & Yang, S. B. (2013). gkDtree: A group-based parallel update kd-tree for interactive ray tracing. Journal of Systems Architecture, 59(3), 166-175."
+        "title": "J.-H. Nah, Y.-H. Jung, W.-C. Park, and T.-D. Han, “Efficient ray sorting for the tracing of incoherent rays,” Information and Communications Engineers (IEICE),2012."
     },
     {
-        "title": "Nah, J. H., Jung, Y. H., Park, W. C., & Han, T. D. (2012). Efficient ray sorting for the tracing of incoherent rays. ieice electronics express, 9(9), 849-854."
+        "title": "J.-H. Nah et al., “T&amp;I engine,” Proceedings of the 2011 SIGGRAPH Asia Conference. ACM, Dec.2011."
     },
     {
-        "title": "Nah, J. H., Park, J. S., Park, C., Kim, J. W., Jung, Y. H., Park, W. C., & Han, T. D. (2011, December). T&I engine: Traversal and intersection engine for hardware accelerated ray tracing. In Proceedings of the 2011 SIGGRAPH Asia Conference (pp. 1-10)."
+        "title": "Hong-Sik Kim, Joohong Lee, Hyunjin Kim, Sungho Kang, and Woo Chan Park, “A Lossless Color Image Compression Architecture Using a Parallel Golomb-Rice Hardware CODEC,” Institute of Electrical and Electronics Engineers (IEEE),Nov.2011."
     },
     {
-        "title": "Kim, H. S., Lee, J., Kim, H., Kang, S., & Park, W. C. (2011). A lossless color image compression architecture using a parallel Golomb-Rice hardware CODEC. IEEE transactions on circuits and systems for video Technology, 21(11), 1581-1587."
+        "title": "W.-C. Park, D.-S. Kim, J.-S. Park, S.-D. Kim, H.-S. Kim, and T.-D. Han, “The design of a texture mapping unit with effective MIP-map level selection for real-time ray tracing,” Information and Communications Engineers (IEICE),2011."
     },
     {
-        "title": "Park, W. C., Kim, D. S., Park, J. S., Kim, S. D., Kim, H. S., & Han, T. D. (2011). The design of a texture mapping unit with effective MIP-map level selection for real-time ray tracing. ieice electronics express, 8(13), 1064-1070."
+        "title": "J. Park, J. Kim, W.-C. Park, Y. Kim, C. Jeong, and T.-D. Han, “An effective rasterization architecture for mobile vector graphics processors,” Information and Communications Engineers (IEICE),2011."
     },
     {
-        "title": "Park, J., Kim, J., Park, W. C., Kim, Y., Jeong, C., & Han, T. D. (2011). An effective rasterization architecture for mobile vector graphics processors. ieice electronics express, 8(11), 835-841."
+        "title": "W.-C. Park et al., “An effective depth data memory system using an escape count buffer for 3D rendering processors,” Information and Communications Engineers (IEICE),2011."
     },
     {
-        "title": "Park, W. C., Park, J. H., Chung, W. N., Park, J. S., Kim, S. D., Kim, H. S., ... & Han, T. D. (2011). An effective depth data memory system using an escape count buffer for 3D rendering processors. ieice electronics express, 8(4), 209-214."
+        "title": "W.-C. Park et al., “The design of compressed memory system for depth data in 3D rendering processors,” Information and Communications Engineers (IEICE),2010."
     },
     {
-        "title": "Park, W. C., Yoon, D. K., Kim, D. S., Kim, H. S., Park, J. H., Jeong, W. N., & Han, T. D. (2010). The design of compressed memory system for depth data in 3D rendering processors. ieice electronics express, 7(21), 1622-1628."
+        "title": "H.-S. Kim, Y. Jung, H. Kim, J.-H. Ahn, W.-C. Park, and S. Kang, “A high performance network-on-chip scheme using lossless data compression,” Information and Communications Engineers (IEICE),2010."
     },
     {
-        "title": "Kim, H. S., Jung, Y., Kim, H., Ahn, J. H., Park, W. C., & Kang, S. (2010). A high performance network-on-chip scheme using lossless data compression. ieice electronics express, 7(11), 791-796."
+        "title": "W.-J. LEE, V. P. SRINI, W.-C. PARK, S. MURAKI, and T.-D. HAN, “An Effective Load Balancing Scheme for 3D Texture-Based Sort-Last Parallel Volume Rendering on GPU Clusters,” Information and Communications Engineers (IEICE),Mar.2008."
     },
     {
-        "title": "Lee, W. J., Srini, V. P., Park, W. C., Muraki, S., & Han, T. D. (2008). An effective load balancing scheme for 3D texture-based sort-last parallel volume rendering on GPU clusters. IEICE TRANSACTIONS on Information and Systems, 91(3), 846-856."
+        "title": "W.-C. Park, C.-G. Kim, D.-K. Yoon, K.-W. Lee, I.-S. Kim, and T.-D. Han, “A consistency-free memory architecture for sort-last parallel rendering processors,” Journal of Systems Architecture,Elsevier BV,May.2007."
     },
     {
-        "title": "Lee, W. J., Park, W. C., Srini, V. P., & Han, T. D. (2007). Simulation and development environment for mobile 3D graphics architectures. IET Computers & Digital Techniques, 1(5), 501-507."
+        "title": "*Lee, S. G., Park, W. C., Lee, W. J., Yang, S. B., & Han, T. D. (2007). An effective bump mapping hardware architecture using polar coordinate system. Journal of information science and engineering, 23(2), 569-588."
     },
     {
-        "title": "Park, W. C., Kim, C. G., Yoon, D. K., Lee, K. W., Kim, I. S., & Han, T. D. (2007). A consistency-free memory architecture for sort-last parallel rendering processors. Journal of Systems Architecture, 53(5-6), 272-284."
+        "title": "M.-H Choi, W.-C. Park, F. Neelamkavil, T.-D. Han, and S.-D. Kim, “An effective visibility culling method based on cache block,” Institute of Electrical and Electronics Engineers (IEEE),Aug.2006."
     },
     {
-        "title": "Lee, S. G., Park, W. C., Lee, W. J., Yang, S. B., & Han, T. D. (2007). An effective bump mapping hardware architecture using polar coordinate system. Journal of information science and engineering, 23(2), 569-588."
+        "title": "*Park, W. C., Yoon, D. K., Lee, K. W., Kim, I. S., Kim, K. S., Lee, W. J., ... & Yang, S. B. (2006). A processor architecture with effective memory system for sort-last parallel rendering. In Architecture of Computing Systems-ARCS 2006: 19th International Conference, Frankfurt/Main, Germany, March 13-16, 2006. Proceedings 19 (pp. 160-175). Springer Berlin Heidelberg."
     },
     {
-        "title": "Choi, M. H., Park, W. C., Neelamkavil, F., Han, T. D., & Kim, S. D. (2006). An effective visibility culling method based on cache block. IEEE Transactions on Computers, 55(8), 1024-1032."
-    },
-    {
-        "title": "Park, W. C., Yoon, D. K., Lee, K. W., Kim, I. S., Kim, K. S., Lee, W. J., ... & Yang, S. B. (2006). A processor architecture with effective memory system for sort-last parallel rendering. In Architecture of Computing Systems-ARCS 2006: 19th International Conference, Frankfurt/Main, Germany, March 13-16, 2006. Proceedings 19 (pp. 160-175). Springer Berlin Heidelberg."
-    },
-    {
-        "title": "Kim, B. U., Kim, K. W., Park, W. C., Yang, S. B., & Han, T. D. (2005). A simple and efficient triangle strip filtering algorithm. Journal of information science and engineering, 21(6), 1277-1288."
+        "title": "*Kim, B. U., Kim, K. W., Park, W. C., Yang, S. B., & Han, T. D. (2005). A simple and efficient triangle strip filtering algorithm. Journal of information science and engineering, 21(6), 1277-1288."
     }
 ]
