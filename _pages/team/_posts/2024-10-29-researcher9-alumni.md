@@ -3,7 +3,7 @@ layout: member
 category: alumni
 title: Seo Youngduke
 image: xxx.jpg
-role: alumni
+role: MS
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
