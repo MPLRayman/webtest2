@@ -15,6 +15,10 @@ permalink: /video/
 # Sound-tracing Technology
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AOFmVFOSHE8?si=lrmkR3B9mwxGdT-z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Sound-Tracing
+- Sound-Tracing은 3차원 지형 데이터 상에서 음원과 청취자 간의 소리 전파 경로를 추적하여 현실감 있는 3차원 사운드를 생성하는 기법으로, 다양한 음향 특성을 반영하여 보다 정교하고 몰입감 있는 오디오 환경을 제공한다.
+- 본 데모는 다양한 재료(예: 나무, 금속, 콘크리트, 타일, 등)이 포함된 3차원 지형데이터에서 수행되는 Sound-Tracing을 보여준다. 현실감을 높이기 위해 반사, 회절, 흡수, 잔향 그리고 도플러와 같은 특수 음향 효과를 지원하고 있으며 다수 개의 음원들에 대하여 실시간 Mixing을 지원한다.
+- Sound-Tracing은 다양한 플랫폼에서 사용할수 있도록 설계되어 PC, VR 기기, 스마트폰 등 다양한 환경에서 구현이 가능하다.
 
 # Real-time AI Technology Denoising
 
