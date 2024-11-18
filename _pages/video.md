@@ -41,6 +41,6 @@ Dehazing
 - 본 데모는 카메라를 통해 획득한 안개 이미지의 노이즈를 AI 신경망을 활용해서 제거하는 것을 보여준다. AI신경망은 안개로 인해 소실된 정보를 복원하고, 안개를 제거한다.
 - 데모에 활용한 AI 신경망은 U-net 신경망을 경량화(23M -> 1M) 하고, 안개 제거에 특화될 수 있도록 구축하였다.
 
-# 사운드 트레이싱 기술을 실시간으로 처리하는 기술
+# Sound-tracing Technology 실시간으로 처리하는 기술
 
-<iframe width="560" height="315" src="https://youtu.be/22G3sJWjt3w?si=lB4hc5myOVatA2Gg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/22G3sJWjt3w?si=lB4hc5myOVatA2Gg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
