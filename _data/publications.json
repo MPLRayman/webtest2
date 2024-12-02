@@ -4,16 +4,28 @@
         "category": "International_Journal"
     },
     {
-        "title": "E. Kim, S. Choi, C. G. Kim, and W.-C. Park, “Multi-Threaded Sound Propagation Algorithm to Improve Performance on Mobile Devices,” Sensors, 23 (2), Jan. 2023."
+        "title": "E. Kim, S. Choi, C. G. Kim, and W.-C. Park, “Multi-Threaded Sound Propagation Algorithm to Improve Performance on Mobile Devices,” Sensors, 23 (2), Jan. 2023.",
+        "category": "International_Journal"
+    }, 
+    {
+        "title": "J. Lee, C.-G. Kim, Y.-K. Moon, and W.-C. Park, “An Implementation of Inverse Cosine Hardware for Sound Rendering Applications,” Sensors, 23(15), 6731, Jul. 2023.",
+        "category": "International_Journal"
     },
     {
-        "title": "E. Kim et al., “An Architecture and Implementation of Real-Time Sound Propagation Hardware for Mobile Devices,” SIGGRAPH Asia 2023 Conference Papers. ACM, Dec. 2023"
+        "title":  "Eunjae Kim, Sukwon Choi, Jiyoung Kim, Jae-ho Nah, Woonam Jung, Tae-hyeong Lee, Yeon-kug Moon, Woo-chan Park, “An Architecture and Implementation of Real-Time Sound Propagation Hardware for Mobile Devices”, SIGGRAPH Asia 2023 Conference Papers. ACM, Dec. 2023",
+        "category": "International_Conferences"
     },
+
+
+
+
+
+
+
+
+
     {
-        "title": "J. Lee, C.-G. Kim, Y.-K. Moon, and W.-C. Park, “An Implementation of Inverse Cosine Hardware for Sound Rendering Applications,” Sensors, 23(15), 6731, Jul. 2023."
-    },
-    {
-        "title": "E. Kim et al., “Effective Algorithm to Control Depth Level for Performance Improvement of Sound Tracing,” Journal of Web Engineering, Feb. 2022."
+        "title": " Eunjae Kim,  Juwon Yun, Woo-Nam Chung, Jae-Ho Nah,  Youngsik Kim, Cheong Ghil Kim, Woo-Chan Park, “Effective Algorithm to Control Depth Level for Performance Improvement of Sound Tracing”,  Journal of Web Engineering, Vol. 21, no. 3,  pp. 713-728.  Feb. 2022."
     },
     {
         "title": "I. Hwang et al., “Lossless Compression Algorithm and Architecture for Reduced Memory Bandwidth Requirement with Improved Prediction Based on the Multiple DPCM Golomb-Rice Algorithm,” Journal of Web Engineering, Oct. 2021."
