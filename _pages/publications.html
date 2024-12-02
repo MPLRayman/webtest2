@@ -6,43 +6,62 @@ sitemap: false
 permalink: /publications/
 ---
 
+---
+title: "Publications"
+layout: default
+excerpt: "RT2 Lab -- Publications."
+sitemap: false
+permalink: /publications/
+---
+
 <h1>{{page.title}}</h1>
+
+<div class="panel-group" id="accordion">
+    <div class="panel panel-default">
+
+    <!-- 添加小标题，例如“Journal Articles”-->
+    <h2>Journal Articles</h2> <!-- 这里你可以根据实际情况调整标题内容 -->
+
+    {% for publi in site.data.publications %}
+        <!-- 在每个出版物之前展示标题 -->
+        <div class="panel-heading">
+            "{{ publi.title }}",
+        </div>
+
+        <div id="collapse{{forloop.index}}" class="panel-collapse collapse">
+            <div class="panel-body">
+                <p>{{ publi.abstract }}</p>
+            </div>
+        </div>
+    {% endfor %}
+
+    <!-- 如果有其他类型的出版物，也可以添加类似的小标题 -->
+    <h2>Conference Papers</h2> <!-- 例如：会议论文 -->
+
+    {% for publi in site.data.conference_papers %}
+        <div class="panel-heading">
+            "{{ publi.title }}",
+        </div>
+
+        <div id="collapse{{forloop.index}}" class="panel-collapse collapse">
+            <div class="panel-body">
+                <p>{{ publi.abstract }}</p>
+            </div>
+        </div>
+    {% endfor %}
+
+    </div>
+</div>
+
+<!-- <h1>{{page.title}}</h1>
 
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
 
     {% for publi in site.data.publications %}
         <div class="panel-heading">
-            <!--
-            <a data-toggle="collapse" data-parent="#accordion"
-               href="#collapse{{forloop.index}}"
-               style="color: inherit;">
-            -->
-            <!-- authors
-            {% assign authors = "" | split:"/" %}
-            {% for author in publi.author %}
-                {% assign authors = authors | push: author.family %}
-            {% endfor %}
-            {{ authors | array_to_sentence_string }},
-            -->
-
-            <!-- title with link -->
+            
             "{{ publi.title }}",
-           
-
-            <!-- container
-            <b>{{ publi.container-title }}</b>
-            -->
-
-            <!-- issued date
-            ({{ publi.issued.date-parts | jsonify | slice: 3,4 }}),
-            -->
-
-            <!--
-            {% if publi.DOI %}
-                <a href="https://doi.org/{{publi.DOI}}">DOI:{{publi.DOI}}</a>
-            {% endif %}
-            DOI -->
             </a>
         </div>
 
@@ -50,12 +69,8 @@ permalink: /publications/
             <div class="panel-body">
                 <p>{{ publi.abstract }}</p>
 
-                <!--
-                <a class="btn btn-outline-primary" href="https://doi.org/{{publi.DOI}}"
-                   role="button" target="blank">Link</a>
-                -->
             </div>
         </div>
     {% endfor %}
     </div>
-</div>
+</div> -->
