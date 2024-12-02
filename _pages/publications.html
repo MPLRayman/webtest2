@@ -6,45 +6,40 @@ sitemap: false
 permalink: /publications/
 ---
 
-
-<h1>{{page.title}}</h1>
+<h1>{{ page.title }}</h1>
 
 <div class="panel-group" id="accordion">
-    <div class="panel panel-default">
 
-    <!-- 添加小标题，例如“Journal Articles”-->
-    <h2>Journal Articles</h2> <!-- 这里你可以根据实际情况调整标题内容 -->
-
-    {% for publi in site.data.publications %}
-        <!-- 在每个出版物之前展示标题 -->
+    <!-- Journal Articles Section -->
+    <h2>Journal Articles</h2>
+    {% assign journal_articles = site.data.publications | where: "category", "Journal Articles" %}
+    {% for publi in journal_articles %}
         <div class="panel-heading">
-            "{{ publi.title }}",
+            <strong>{{ publi.title }}</strong>
         </div>
-
-        <div id="collapse{{forloop.index}}" class="panel-collapse collapse">
+        <div id="collapse{{ forloop.index }}" class="panel-collapse collapse">
             <div class="panel-body">
                 <p>{{ publi.abstract }}</p>
             </div>
         </div>
     {% endfor %}
 
-    <!-- 如果有其他类型的出版物，也可以添加类似的小标题 -->
-    <h2>Conference Papers</h2> <!-- 例如：会议论文 -->
-
-    {% for publi in site.data.conference_papers %}
+    <!-- Conference Papers Section -->
+    <h2>Conference</h2>
+    {% assign conference_papers = site.data.publications | where: "category", "Conference Papers" %}
+    {% for publi in conference_papers %}
         <div class="panel-heading">
-            "{{ publi.title }}",
+            <strong>{{ publi.title }}</strong>
         </div>
-
-        <div id="collapse{{forloop.index}}" class="panel-collapse collapse">
+        <div id="collapse{{ forloop.index }}" class="panel-collapse collapse">
             <div class="panel-body">
                 <p>{{ publi.abstract }}</p>
             </div>
         </div>
     {% endfor %}
 
-    </div>
 </div>
+
 
 <!-- <h1>{{page.title}}</h1>
 
