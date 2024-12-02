@@ -26,8 +26,8 @@ permalink: /publications/
 
     <!-- Conference Papers Section -->
     <h2>Conference</h2>
-    {% assign conference_papers = site.data.publications | where: "category", "Conference Papers" %}
-    {% for publi in conference_papers %}
+    {% assign Conference = site.data.publications | where: "category", "Conference" %}
+    {% for publi in conference %}
         <div class="panel-heading">
             <strong>{{ publi.title }}</strong>
         </div>
