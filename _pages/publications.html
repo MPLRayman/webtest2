@@ -15,7 +15,7 @@ permalink: /publications/
     {% assign International_Journal = site.data.publications | where: "category", "International_Journal" %}
     {% for publi in International_Journal %}
         <div class="panel-heading">
-            <strong>{{ publi.title }}</strong>
+            {{ publi.title }}
         </div>
         <div id="collapse{{ forloop.index }}" class="panel-collapse collapse">
             <div class="panel-body">
@@ -29,7 +29,7 @@ permalink: /publications/
     {% assign International_Conferences = site.data.publications | where: "category", "International_Conferences" %}
     {% for publi in International_Conferences %}
         <div class="panel-heading">
-            <strong>{{ publi.title }}</strong>
+            {{ publi.title }}
         </div>
         <div id="collapse{{ forloop.index }}" class="panel-collapse collapse">
             <div class="panel-body">
