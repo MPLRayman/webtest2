@@ -11,9 +11,9 @@ permalink: /publications/
 <div class="panel-group" id="accordion">
 
     <!-- Journal Articles Section -->
-    <h2>Journal Articles</h2>
-    {% assign journal_articles = site.data.publications | where: "category", "Journal Articles" %}
-    {% for publi in journal_articles %}
+    <h2>International Journal</h2>
+    {% assign International Journal = site.data.publications | where: "category", "International Journal" %}
+    {% for publi in International Journal %}
         <div class="panel-heading">
             <strong>{{ publi.title }}</strong>
         </div>
@@ -25,9 +25,9 @@ permalink: /publications/
     {% endfor %}
 
     <!-- Conference Papers Section -->
-    <h2>Conference</h2>
-    {% assign conference = site.data.publications | where: "category", "Conference" %}
-    {% for publi in conference %}
+    <h2>International Conferences</h2>
+    {% assign International Conferences = site.data.publications | where: "category", "International Conferences" %}
+    {% for publi in International Conferences %}
         <div class="panel-heading">
             <strong>{{ publi.title }}</strong>
         </div>
