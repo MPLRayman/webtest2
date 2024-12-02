@@ -12,8 +12,8 @@ permalink: /publications/
 
     <!-- Journal Articles Section -->
     <h2>International Journal</h2>
-    {% assign International Journal = site.data.publications | where: "category", "International Journal" %}
-    {% for publi in International Journal %}
+    {% assign International_Journal = site.data.publications | where: "category", "International_Journal" %}
+    {% for publi in International_Journal %}
         <div class="panel-heading">
             <strong>{{ publi.title }}</strong>
         </div>
@@ -25,9 +25,9 @@ permalink: /publications/
     {% endfor %}
 
     <!-- Conference Papers Section -->
-    <h2>International Conferences</h2>
-    {% assign International Conferences = site.data.publications | where: "category", "International Conferences" %}
-    {% for publi in International Conferences %}
+    <h2>International_Conferences</h2>
+    {% assign International_Conferences = site.data.publications | where: "category", "International_Conferences" %}
+    {% for publi in International_Conferences %}
         <div class="panel-heading">
             <strong>{{ publi.title }}</strong>
         </div>
