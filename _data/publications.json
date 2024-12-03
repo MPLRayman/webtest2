@@ -64,64 +64,83 @@
         "category": "International_Journal"
     },
     {
-        "title": "Hyuck-Joo Kwon, Jae-Ho Nah, Dinesh Manocha, and Woo-Chan Park, “Effective traversal algorithms and hardware architecture for pyramidal inverse displacement mapping”, Computers & Graphics, Vol. 38, No. 22, pp. 140-149, Feb.2014.",
+        "title": "-Hyuck-Joo Kwon, Jae-Ho Nah, Dinesh Manocha, and Woo-Chan Park, “Effective traversal algorithms and hardware architecture for pyramidal inverse displacement mapping”, Computers & Graphics, Vol. 38, No. 22, pp. 140-149, Feb.2014.",
         "category": "International_Journal"
     },
     {
-        "title": "D. Kim and S. Kwon, “Factors associated with utilization of Traditional Korean Medicine: Results from a panel analysis,” European Journal of Integrative Medicine,Elsevier BV, Sep. 2016."
+        "title": "-Kim, Dongsu, and Soohyun Kwon, “Factors associated with utilization of Traditional Korean Medicine: Results from a panel analysis,” European Journal of Integrative Medicine . Sep. 2016.",
+        "category": "International_Journal"
     },
     {
-        "title": "J. Park, W. Park, J.-H. Nah, and T. Han, “Node pre-fetching architecture for real-time ray tracing,” Information and Communications Engineers (IEICE), 2013."
+        "title": "-Jeong-soo Park, Woo-Chan Park, Jae-Ho Nah, and Tack-don Han, “Node pre-fetching architecture for real-time ray tracing”, IEICE Electronics Express, Vol. 10, No. 14, pp.1-6, July.2013.",
+        "category": "International_Journal"
     },
     {
-        "title": "Y.-J. PARK, W.-C. PARK, J.-H. BAE, J. PARK, and T.-D. HAN, “Effective Fixed-Point Pipelined Divider for Mobile Rendering Processors,” Information and Communications Engineers (IEICE), 2013."
+        "title": "-Yong-Jin Park, Woo-Chan Park, Jun-Hyun Bae, Jin-hong Park, and Tack-Don Han, “Effective Fixed-Point Pipelined Divider for Mobile Rendering Processors”, IEICE TRANSACTION on Information and Systems, Vol. E96-D, No. 7, pp. 1443-1448, Jul.2013.",
+        "category": "International_Journal"
     },
     {
-        "title": "J. Park, I.-S. Kim, W.-C. Park, Y.-J. Park, and T.-D. Han, “A pixel pipeline architecture with selective z-test scheme for 3D graphics processors,” Microprocessors and Microsystems, Elsevier BV, May. 2013."
+        "title": "- Jin-hong Park, Il-San Kim, Woo-Chan Park, Yong-Jin Park, and Tack-Don Han, “A Pixel Pipeline Architecture with Selective Z-Test Scheme for 3D Graphics Processors”, Microprocessors and Microsystems, Vol. 37, No. 3, pp.373-380, May 2013.",
+        "category": "International_Journal"
     },
     {
-        "title": "Y.-S. Kang, J.-H. Nah, W.-C. Park, and S.-B. Yang, “gkDtree: A group-based parallel update kd-tree for interactive ray tracing,” Journal of Systems Architecture,Elsevier BV, Mar. 2013."
+        "title": "-Yoon-Sig Kang, Jae-Ho Nah, Woo-Chan Park, and Sung-Bong Yang, “gkDtree : A Group-Based Parallel Update Kd-tree for Interactive Ray Tracing”,Journal of Systems Architecture, Vol. 59, No. 3, pp.166-175, March 2013.",
+        "category": "International_Journal"
     },
     {
-        "title": "J.-H. Nah, Y.-H. Jung, W.-C. Park, and T.-D. Han, “Efficient ray sorting for the tracing of incoherent rays,” Information and Communications Engineers (IEICE), 2012."
+        "title": "-Jae-Ho Nah, Yun-Hye Jung, Woo-Chan Park, and Tack-Don Han, “Efficient ray sorting for the tracing incoherent rays”,IEICE Electronics Express, Vol. 9, No. 9, pp.849-854, May 2012.",
+        "category": "International_Journal"
     },
     {
-        "title": "J.-H. Nah et al., “T&amp;I engine,” Proceedings of the 2011 SIGGRAPH Asia Conference. ACM, Dec. 2011."
+        "title": "-Jae-Ho Nah, Jeong-Soo Park, Chanmin Park, Jin-Woo Kim, Yun-Hye Jung, Woo-Chan Park, and Tack-Don Han, “T&I Engine: Traversal and Intersection Engine for Hardware Accelerated Ray Tracing”, ACM Transactions on Graphics, Vol. 30, No. 6, Article 160, Dec. 2011.",
+        "category": "International_Journal"
     },
     {
-        "title": "Hong-Sik Kim, Joohong Lee, Hyunjin Kim, Sungho Kang, and Woo Chan Park, “A Lossless Color Image Compression Architecture Using a Parallel Golomb-Rice Hardware CODEC,” Institute of Electrical and Electronics Engineers (IEEE), Nov. 2011."
+        "title": "-Hong-Sik Kim, Joohong Lee , Hyunjin Kim, Sungho Kang, and Woo Chan Park, “A Lossless Color Image Compression Architecture Using a Parallel Golomb-Rice Hardware Codec”,IEEE Transactions on Circuits and Systems for Video Technology, Vol. 21, No. 11, pp. 1581-1587, Nov. 2011",
+        "category": "International_Journal"
     },
     {
-        "title": "W.-C. Park, D.-S. Kim, J.-S. Park, S.-D. Kim, H.-S. Kim, and T.-D. Han, “The design of a texture mapping unit with effective MIP-map level selection for real-time ray tracing,” Information and Communications Engineers (IEICE), 2011."
+        "title": "-Woo-Chan Park, Dong-Seok Kim, Jeong-Soo Park, Sang-Duk Kim, Hong-Sik Kim and Tack-Don Han, “The design of a texture mapping unit with effective MIP-map level selection for real-time ray tracing”,IEICE Electron. Express, Vol. 8, No. 13, pp.1064-1070, July 2011.",
+        "category": "International_Journal"
     },
     {
-        "title": "J. Park, J. Kim, W.-C. Park, Y. Kim, C. Jeong, and T.-D. Han, “An effective rasterization architecture for mobile vector graphics processors,” Information and Communications Engineers (IEICE), 2011."
+        "title": "-Jinhong Park, Jinwoo Kim, Woo-Chan Park, Youngsik Kim, Chelho Jeong and Tack-Don Han, “An effective rasterization architecture for mobile vector graphics processors,” IEICE Electronics Express, Vol. 8, No. 11, pp.835-841, June 2011.",
+        "category": "International_Journal"
     },
     {
-        "title": "W.-C. Park et al., “An effective depth data memory system using an escape count buffer for 3D rendering processors,” Information and Communications Engineers (IEICE), 2011."
+        "title": "-Woo-Chan Park, Jin-Hong Park, Woo-Nam Chung, Jeong-Soo Park, Sang-Duk Kim, Hong-Sik Kim, Young-Sik Kim and Tack-Don Han, “An effective depth data memory system using an escape count buffer for 3D rendering processors,” IEICE Electron. Express, Vol. 8, No. 4, pp.209-214, Feb. 2011.",
+        "category": "International_Journal"
     },
     {
-        "title": "W.-C. Park et al., “The design of compressed memory system for depth data in 3D rendering processors,” Information and Communications Engineers (IEICE), 2010."
+        "title": "-Woo-Chan Park, Duk-Ki Yoon, Dong-Seok Kim, Hong-Sik Kim, Jin-Hong Park, Woo-Nam Jeong, and Tack-Don Han, “The design of compressed memory system for depth data in 3D rendering processors”, IEICE Electronics Express, Vol. 7, No. 21, pp. 1622-1628, Nov. 2010.",
+        "category": "International_Journal"
     },
     {
-        "title": "H.-S. Kim, Y. Jung, H. Kim, J.-H. Ahn, W.-C. Park, and S. Kang, “A high performance network-on-chip scheme using lossless data compression,” Information and Communications Engineers (IEICE), 2010."
+        "title": "-Hong-Sik Kim, Youngha Jung, Hyunjin Kim, Jin-Ho Ahn, Woo-Chan Park and Sungho Kang, “A high performance network-on-chip scheme using lossless data compression,” IEICE Electron. Express, Vol.7, No.11, pp.791-796, May 2010.",
+        "category": "International_Journal"
     },
     {
-        "title": "W.-J. LEE, V. P. SRINI, W.-C. PARK, S. MURAKI, and T.-D. HAN, “An Effective Load Balancing Scheme for 3D Texture-Based Sort-Last Parallel Volume Rendering on GPU Clusters,” Information and Communications Engineers (IEICE), Mar. 2008."
+        "title": "-Won-Jong Lee, Vason P. Srini, Woo-Chan Park, Shigeru Muraka, and Tack-Don Han, “An Effective Load Balancing Scheme for 3D Texture- based Sort-Last Parallel Volume Rendering on GPU Clusters”,IEICE Transactions on Information and Systems, Vol. E91-D, No.3, pp.846-856, Mar.2008.",
+        "category": "International_Journal"
     },
     {
-        "title": "W.-C. Park, C.-G. Kim, D.-K. Yoon, K.-W. Lee, I.-S. Kim, and T.-D. Han, “A consistency-free memory architecture for sort-last parallel rendering processors,” Journal of Systems Architecture,Elsevier BV, May. 2007."
+        "title": "-Woo-Chan Park, Cheong-Gil Kim, Duk-Ki Yoon, Kil-Whan Lee, Il-San Kim, Tack-Don Han, “A Consistency-free Memory Architecture for Sort-last Parallel Rendering Processors”, Journal of Systems Architecture, Vol. 53, issues5, pp. 272-284, May 2007.",
+        "category": "International_Journal"
     },
     {
-        "title": "*Lee, S. G., Park, W. C., Lee, W. J., Yang, S. B., & Han, T. D. (2007). An effective bump mapping hardware architecture using polar coordinate system. Journal of information science and engineering, 23(2), 569-588."
+        "title": "-Seung-Gi Lee, Woo-Chan Park, Won-Jong Lee, Sung-Bong Yang, and Tack-Don Han, “An Effective Bump Mapping Hardware Architecture Using Polar Coordinate System”,Journal of Information Science and Engineering, Vol. 23, No.2, pp.569-588, March 2007.",
+        "category": "International_Journal"
     },
     {
-        "title": "M.-H Choi, W.-C. Park, F. Neelamkavil, T.-D. Han, and S.-D. Kim, “An effective visibility culling method based on cache block,” Institute of Electrical and Electronics Engineers (IEEE), Aug. 2006."
+        "title": "-Moon-Hee Choi, Woo-Chan Park, Francis Neelamkavi, Tack-Don Han, and Shin-Dug Kim, “An Effective Visibility Culling Method Based on Cache Block”,IEEE Transactions on Computers, Vol. 55, No. 8, pp 1024-1032, Aug. 2006.",
+        "category": "International_Journal"
     },
     {
-        "title": "*Park, W. C., Yoon, D. K., Lee, K. W., Kim, I. S., Kim, K. S., Lee, W. J., ... & Yang, S. B. (2006). A processor architecture with effective memory system for sort-last parallel rendering. In Architecture of Computing Systems-ARCS 2006: 19th International Conference, Frankfurt/Main, Germany, March 13-16, 2006. Proceedings 19 (pp. 160-175). Springer Berlin Heidelberg."
+        "title": "-Woo-Chan Park, Duk-Ki Yoon, Kil-Whan Lee, Il-San Kim, Kyung-Su Kim, Won-Jong Lee, Tack-Don Han & Sung-Bong Yang. “A processor architecture with effective memory system for sort-last parallel rendering”.Architecture of Computing Systems-ARCS 19th International Conference, March.2006.",
+        "category":"International_Conferences"
     },
     {
-        "title": "*Kim, B. U., Kim, K. W., Park, W. C., Yang, S. B., & Han, T. D. (2005). A simple and efficient triangle strip filtering algorithm. Journal of information science and engineering, 21(6), 1277-1288."
+        "title": "-Byung Uck Kim, Kyoung Wha Kim, Woo Chan Park, Sung Bong Yang. “A simple and efficient triangle strip filtering algorithm”. Journal of information science and engineering 21.6 1277-1288 2005.",
+        "category": "International_Journal"
     }
 ]
