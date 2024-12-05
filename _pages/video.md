@@ -11,6 +11,10 @@ permalink: /video/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h_AQ77AicD4?si=_XTByVeXvjnwCfl6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GpM-S8eVCNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Ray-Tracing
+- Ray-Tracing은 3차원 그래픽스에서 광원의 위치와 관찰자 간의 광선 경로를 추적하여 현실감 있는 조명 효과를 생성하는 기법으로, 다양한 광학 특성을 반영하여 보다 정교하고 몰입감 있는 시각적 환경을 제공한다.
+- 본 데모는 FPGA 상에서 구현된 Ray-Tracing으로, 현실감을 높이기 위해 광선의 반사, 굴절, 산란, 그림자 생성과 같은 조명 효과를 지원한다. 이는 현실감을 높이기 위해 FPGA를 이용하여 다수 개의 광원을 실시간으로 처리하며, 동적인 장면을 렌더링할 수 있다.
+- Ray-Tracing의 높은 연산량을 실시간으로 처리하기 위하여 FPGA를 다수 개 사용하거나, 성능 향상 알고리즘을 적용한 처리가 가능하다.
 
 # Sound-Tracing Technology
 
