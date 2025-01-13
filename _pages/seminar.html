@@ -1,45 +1,25 @@
 ---
 title1: "Ray-tracing GPU Technology"
-title1: "Sound-tracing Technology"
-title1: "Real-time AI Technology Denoising"
-title1: "Real-time AI Technology Dehazing"
-title1: "Sound-tracing Technology 실시간으로 처리하는 기술"
-title1: "Sound-tracing Technology 사운드트레이싱 반도체 스타트업 세종피아 박우찬 대표 인터뷰"
-
 
 layout: default
-excerpt: "RT2 Lab -- Publications."
+excerpt: "RT2 Lab -- seminar."
 sitemap: false
-permalink: /video/
+permalink: /seminar/
 ---
 
 <h1>{{page.title1}}</h1>
-<h2>{{page.title1}}</h2>
-<h3>{{page.title1}}</h3>
-<h4>{{page.title1}}</h4>
-<h5>{{page.title1}}</h5>
-<h6>{{page.title1}}</h6>
-<h7>{{page.title1}}</h7>
 
 <div class="panel-group" id="accordion">
-    {% for vide in site.data.video %}
-    <div class="panel panel-default">
-        <!-- Panel Heading -->
+
+    <!-- Journal Articles Section -->
+    <h2>2025 1월 11일 세미나</h2>
+    {% assign International_Journal = site.data.publications | where: "category", "International_Journal" %}
+    {% for publi in International_Journal %}
         <div class="panel-heading">
-            <h4 class="panel-title">
-                <a data-toggle="collapse" href="#collapse{{ forloop.index }}">
-                    {{ vide.title }} <!-- 标题，取自数据 -->
-                </a>
-            </h4>
+            {{ publi.title }}
         </div>
-        
-        <!-- Collapsible Content -->
-        <div id="collapse{{ forloop.index }}" class="panel-collapse collapse {% if forloop.first %}in{% endif %}">
+        <div id="collapse{{ forloop.index }}" class="panel-collapse collapse">
             <div class="panel-body">
-                <p>{{ vide.abstract }}</p> <!-- 内容摘要 -->
-                <a href="{{ vide.url }}" class="btn btn-primary" target="_blank">Watch Video</a> <!-- 相关链接 -->
+                <p>{{ publi.abstract }}</p>
             </div>
         </div>
-    </div>
-    {% endfor %}
-</div>
