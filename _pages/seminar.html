@@ -22,17 +22,24 @@ permalink: /video/
 <h7>{{page.title1}}</h7>
 
 <div class="panel-group" id="accordion">
-    <div class="panel panel-default">
-
     {% for vide in site.data.video %}
+    <div class="panel panel-default">
+        <!-- Panel Heading -->
         <div class="panel-heading">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" href="#collapse{{ forloop.index }}">
+                    {{ vide.title }} <!-- 标题，取自数据 -->
+                </a>
+            </h4>
         </div>
-
-        <div id="collapse{{forloop.index}}" class="panel-collapse collapse">
+        
+        <!-- Collapsible Content -->
+        <div id="collapse{{ forloop.index }}" class="panel-collapse collapse {% if forloop.first %}in{% endif %}">
             <div class="panel-body">
-                <p>{{ vide.abstract }}</p>
+                <p>{{ vide.abstract }}</p> <!-- 内容摘要 -->
+                <a href="{{ vide.url }}" class="btn btn-primary" target="_blank">Watch Video</a> <!-- 相关链接 -->
             </div>
         </div>
-    {% endfor %}
     </div>
+    {% endfor %}
 </div>
